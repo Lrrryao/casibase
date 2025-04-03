@@ -13,11 +13,10 @@
 // limitations under the License.
 
 export const AuthConfig = {
-  serverUrl: "https://door.casdoor.com",
-  // serverUrl: "http://localhost:7001",
-  clientId: "af6b5aa958822fb9dc33",
+  serverUrl: "http://localhost:7001",
+  clientId: "123",
   appName: "app-casibase",
-  organizationName: "casbin",
+  organizationName: "casibase",
   redirectPath: "/callback",
 };
 

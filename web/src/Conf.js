@@ -44,6 +44,7 @@ export const AppUrl = "";
 
 export const ShowGithubCorner = false;
 export const IsDemoMode = false;
+export const DisablePreviewMode = false;
 
 export const ThemeDefault = {
   themeType: "default",
